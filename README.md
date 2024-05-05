@@ -1,6 +1,12 @@
 # open PoE Pi HAT
 
-Based on WisdPi PoE+ Module(PD-1202M)
+open source Raspberry Pi PoE+ HAT. 802.3at 30W standard.
+
++5.1V / Maximum current 4.5A to Pi with 40-Pin GPIO
+
+Designed for Pi5, and also compatible with Raspberry Pi 3B+/4B.
+
+Based on WisdPi PoE+ Module (PD-1202M)
 
 ![img](./3D_open%20PoE+%20Pi%20HAT_2024-05-05.jpg "open PoE+ Pi HAT")
 
