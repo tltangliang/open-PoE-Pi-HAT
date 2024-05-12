@@ -16,7 +16,7 @@ By using PC104 pin headers to connect to the Raspberry Pi, it provides two PoE i
 
 The TPS51396ARJER is a highly efficient IC. When operating at full load, this board generates very little heat.
 
-##OSHWA
+## OSHWA
 
 ![img](./oshw_facts.svg "oshw")
 
