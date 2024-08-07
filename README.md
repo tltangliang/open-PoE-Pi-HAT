@@ -20,7 +20,7 @@ The TPS51396ARJER is a highly efficient IC. When operating at full load, this bo
 
 OSHWA UID: CN000014
 
-![img](./certification-mark-CN000014-stacked.svg "oshw")
+[![oshw](./certification-mark-CN000014-stacked.svg "oshw")](https://certification.oshwa.org/cn000014.html)
 
 ## SCH
 ![img](./hardware/SCH_open%20PoE+%20Pi%20HAT_2024-05-05.jpg "open PoE+ Pi HAT SCH")
