@@ -8,7 +8,7 @@ Designed for Pi5, and also compatible with Raspberry Pi 3B+/4B.
 
 Based on WisdPi PoE+ Module (PD-1202M)
 
-![img](./3D_open%20PoE+%20Pi%20HAT_2024-05-05.jpg "open PoE+ Pi HAT")
+![img](./image/preview.jpg "open PoE+ Pi HAT")
 
 The Open PoE Pi HAT is based on the WisdPi PoE+ Module(PD-1202M), which separates a 12V/2A power supply and uses Ti's DC-DC solution (TPS51396ARJER) to step down to a 5V power supply. It has been tested to provide a maximum current of 4.5A, which basically meets the power supply requirements of Raspberry Pi 5.
 
@@ -18,12 +18,14 @@ The TPS51396ARJER is a highly efficient IC. When operating at full load, this bo
 
 ## OSHWA
 
-![img](./oshw_facts.svg "oshw")
+OSHWA UID: CN000014
+
+![img](./certification-mark-CN000014-stacked.svg "oshw")
 
 ## SCH
-![img](./SCH_open%20PoE+%20Pi%20HAT_2024-05-05.jpg "open PoE+ Pi HAT SCH")
+![img](./hardware/SCH_open%20PoE+%20Pi%20HAT_2024-05-05.jpg "open PoE+ Pi HAT SCH")
 
 ## PCB
-![img](./PCB_open%20PoE+%20Pi%20HAT_2024-05-05-1.jpg "open PoE+ Pi HAT PCB-Top")
+![img](./image/pcb_top.jpg "open PoE+ Pi HAT PCB-Top")
 
-![img](./PCB_open%20PoE+%20Pi%20HAT_2024-05-05-2.jpg "open PoE+ Pi HAT PCB-Bottom")
+![img](./image/pcb_bottom.jpg "open PoE+ Pi HAT PCB-Bottom")
